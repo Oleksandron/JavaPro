@@ -4,9 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87a1a8f3-03b0-49b1-bc52-804a1b447aa2" name="Changes" comment="Create repository">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw6/Play.java" afterDir="false" />
+    <list default="true" id="87a1a8f3-03b0-49b1-bc52-804a1b447aa2" name="Changes" comment="Add hw7">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak0/AbstractShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak0/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak0/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak0/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak0/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak0/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak1/AbstractMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak1/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak1/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak1/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak1/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak2/AbstractMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak2/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak2/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak2/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak2/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak3_4/Obstacle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak3_4/Racetrack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak3_4/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/AbstractMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/Obstacle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/Racetrack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/Wall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +46,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -27,12 +58,42 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw6/Main.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw6/Play.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw7/ArrayDataException.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw7/ArraySizeException.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw7/ArrayValueCalculator.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak0/AbstractShape.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak0/Circle.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak0/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak0/Shape.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak0/Square.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak0/Triangle.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak1/Human.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak1/Member.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak2/AbstractMember.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak2/Cat.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak2/Human.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak2/Member.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak2/Robot.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak3_4/Obstacle.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak3_4/Racetrack.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak3_4/Wall.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/AbstractMember.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/Cat.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/Human.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/Member.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/Obstacle.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/Racetrack.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/Robot.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/Wall.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OO9aqbfjccaoyn1IshzVRXp6D9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,7 +106,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/JavaPro/JavaPro/src/main/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/JavaPro/JavaPro/src/main/java/ua/hillel/hw8&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -54,17 +115,77 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ua.hillel.hw7" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\JavaPro\JavaPro\src\main\java\ua\hillel\hw8" />
       <recent name="C:\JavaPro\JavaPro\src\main\java" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ua.hillel.hw8.pak5" />
+      <recent name="ua.hillel.hw8.pak2" />
+    </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Play" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hillel.hw6.Play" />
+  <component name="RunManager" selected="Application.ua.hillel.hw8.pak5.Main">
+    <configuration name="ArrayValueCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.hw7.ArrayValueCalculator" />
       <module name="JavaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.hillel.hw6.*" />
+          <option name="PATTERN" value="ua.hillel.hw7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.hw8.pak0.Main" />
+      <module name="JavaPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.hillel.hw8.pak0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ua.hillel.hw8.pak1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.hw8.pak1.Main" />
+      <module name="JavaPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.hillel.hw8.pak1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ua.hillel.hw8.pak2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.hw8.pak2.Main" />
+      <module name="JavaPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.hillel.hw8.pak2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ua.hillel.hw8.pak5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.hw8.pak5.Main" />
+      <module name="JavaPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.hillel.hw8.pak5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,7 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Play" />
+        <item itemvalue="Application.ua.hillel.hw8.pak5.Main" />
+        <item itemvalue="Application.ArrayValueCalculator" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ua.hillel.hw8.pak2.Main" />
+        <item itemvalue="Application.ua.hillel.hw8.pak1.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -91,7 +216,22 @@
       <workItem from="1681500031837" duration="4034000" />
       <workItem from="1681557257890" duration="2097000" />
       <workItem from="1681567749748" duration="370000" />
-      <workItem from="1681578491314" duration="4359000" />
+      <workItem from="1681578491314" duration="4765000" />
+      <workItem from="1681587604870" duration="41000" />
+      <workItem from="1681747426266" duration="12971000" />
+      <workItem from="1681830882444" duration="6195000" />
+      <workItem from="1681845502823" duration="276000" />
+      <workItem from="1681939835855" duration="328000" />
+      <workItem from="1682014081256" duration="1751000" />
+      <workItem from="1682020881056" duration="362000" />
+      <workItem from="1682022010958" duration="6174000" />
+      <workItem from="1682105606287" duration="5012000" />
+      <workItem from="1682111796846" duration="363000" />
+      <workItem from="1682177947713" duration="133000" />
+      <workItem from="1682262452363" duration="628000" />
+      <workItem from="1682362435299" duration="62000" />
+      <workItem from="1682365160504" duration="3984000" />
+      <workItem from="1682369338118" duration="4611000" />
     </task>
     <task id="LOCAL-00001" summary="Create repository">
       <created>1681421569358</created>
@@ -100,7 +240,28 @@
       <option name="project" value="LOCAL" />
       <updated>1681421569358</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add hw6 6*">
+      <created>1681585580105</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681585580105</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add hw6 6*">
+      <created>1681585613279</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681585613279</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add hw7">
+      <created>1682111938557</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682111938557</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +269,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create repository" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create repository" />
+    <MESSAGE value="Add hw6 6*" />
+    <MESSAGE value="Add hw7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add hw7" />
   </component>
 </project>
