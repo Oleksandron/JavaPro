@@ -4,38 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87a1a8f3-03b0-49b1-bc52-804a1b447aa2" name="Changes" comment="Add hw7">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak0/AbstractShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak0/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak0/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak0/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak0/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak0/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak1/AbstractMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak1/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak1/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak1/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak1/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak2/AbstractMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak2/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak2/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak2/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak2/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak3_4/Obstacle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak3_4/Racetrack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak3_4/Wall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/AbstractMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/Obstacle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/Racetrack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/Wall.java" afterDir="false" />
+    <list default="true" id="87a1a8f3-03b0-49b1-bc52-804a1b447aa2" name="Changes" comment="Add hw8">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw9/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw9/FileLoggerConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw9/LoggingLevel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +20,7 @@
       <list>
         <option value="Interface" />
         <option value="Record" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -86,6 +59,9 @@
     <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/Racetrack.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/Robot.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw8/pak5/Wall.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw9/FileLogger.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw9/FileLoggerConfiguration.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw9/LoggingLevel.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -100,6 +76,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -127,7 +104,7 @@
       <recent name="ua.hillel.hw8.pak2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ua.hillel.hw8.pak5.Main">
+  <component name="RunManager" selected="Application.FileLogger">
     <configuration name="ArrayValueCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ua.hillel.hw7.ArrayValueCalculator" />
       <module name="JavaPro" />
@@ -141,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hillel.hw8.pak0.Main" />
+    <configuration name="FileLogger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.hw9.FileLogger" />
       <module name="JavaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.hillel.hw8.pak0.*" />
+          <option name="PATTERN" value="ua.hillel.hw9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ua.hillel.hw8.pak1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hillel.hw8.pak1.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.hw8.pak0.Main" />
       <module name="JavaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.hillel.hw8.pak1.*" />
+          <option name="PATTERN" value="ua.hillel.hw8.pak0.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileLogger" />
         <item itemvalue="Application.ua.hillel.hw8.pak5.Main" />
         <item itemvalue="Application.ArrayValueCalculator" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ua.hillel.hw8.pak2.Main" />
-        <item itemvalue="Application.ua.hillel.hw8.pak1.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -232,6 +209,17 @@
       <workItem from="1682362435299" duration="62000" />
       <workItem from="1682365160504" duration="3984000" />
       <workItem from="1682369338118" duration="4611000" />
+      <workItem from="1682374004484" duration="132000" />
+      <workItem from="1682451857264" duration="1381000" />
+      <workItem from="1682541395147" duration="3307000" />
+      <workItem from="1682614812588" duration="53000" />
+      <workItem from="1682618970424" duration="156000" />
+      <workItem from="1682780858389" duration="461000" />
+      <workItem from="1682784198650" duration="1799000" />
+      <workItem from="1682857194932" duration="352000" />
+      <workItem from="1682878824753" duration="9000" />
+      <workItem from="1682882687492" duration="7046000" />
+      <workItem from="1682890595701" duration="2702000" />
     </task>
     <task id="LOCAL-00001" summary="Create repository">
       <created>1681421569358</created>
@@ -261,16 +249,25 @@
       <option name="project" value="LOCAL" />
       <updated>1682111938557</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add hw8">
+      <created>1682374101661</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682374101661</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Create repository" />
     <MESSAGE value="Add hw6 6*" />
     <MESSAGE value="Add hw7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add hw7" />
+    <MESSAGE value="Add hw8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add hw8" />
   </component>
 </project>
