@@ -10,7 +10,6 @@ public class ValueCalculator extends Thread {
     }
 
     public static void arraysWorking(int[] arr) {
-        long start = System.currentTimeMillis();
         for (int i = 0; i < arr.length; i++) {
             arr[i] = 5;
         }
@@ -43,12 +42,13 @@ public class ValueCalculator extends Thread {
         int[] arrFull = new int[arr.length];
         System.arraycopy(arrFull, 0, arr1, 0, arr1.length);
         System.arraycopy(arrFull, arr1.length, arr2, 0, arr2.length);
-        long end = System.currentTimeMillis();
-        System.out.println("Time: " + (end - start));
     }
 
     public static void main(String[] args) throws InterruptedException{
         System.out.println(Thread.currentThread().getName());
+        long start = System.currentTimeMillis();
         arraysWorking(array);
+        long end = System.currentTimeMillis();
+        System.out.println("Times: " + (end - start));
     }
 }
