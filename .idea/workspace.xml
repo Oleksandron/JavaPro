@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87a1a8f3-03b0-49b1-bc52-804a1b447aa2" name="Changes" comment="Add hw10">
+    <list default="true" id="87a1a8f3-03b0-49b1-bc52-804a1b447aa2" name="Changes" comment="Add hw10 2 attempt">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw11/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw11/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw11/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw11/Orange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/hw10/ValueCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw10/ValueCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +32,11 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw10/ValueCalculator.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw11/Apple.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw11/Box.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw11/Fruit.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw11/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw11/Orange.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw6/Main.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw6/Play.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw7/ArrayDataException.java" root0="SKIP_INSPECTION" />
@@ -225,7 +234,14 @@
       <workItem from="1683478134446" duration="70000" />
       <workItem from="1683558424402" duration="1467000" />
       <workItem from="1683574799366" duration="5485000" />
-      <workItem from="1683581777781" duration="576000" />
+      <workItem from="1683581777781" duration="1100000" />
+      <workItem from="1683751294177" duration="646000" />
+      <workItem from="1683787117681" duration="43000" />
+      <workItem from="1683825360238" duration="577000" />
+      <workItem from="1683923968019" duration="1876000" />
+      <workItem from="1683980390521" duration="3220000" />
+      <workItem from="1684077991493" duration="981000" />
+      <workItem from="1684090808135" duration="7286000" />
     </task>
     <task id="LOCAL-00001" summary="Create repository">
       <created>1681421569358</created>
@@ -276,7 +292,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683403880494</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add hw10 2 attempt">
+      <created>1683582430700</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683582430700</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add hw10 2 attempt">
+      <created>1683751644547</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683751644547</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,6 +320,7 @@
     <MESSAGE value="Add hw8" />
     <MESSAGE value="Add hw9" />
     <MESSAGE value="Add hw10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add hw10" />
+    <MESSAGE value="Add hw10 2 attempt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add hw10 2 attempt" />
   </component>
 </project>
