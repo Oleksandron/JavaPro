@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87a1a8f3-03b0-49b1-bc52-804a1b447aa2" name="Changes" comment="Add hw10 2 attempt">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw11/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw11/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw11/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw11/Orange.java" afterDir="false" />
+    <list default="true" id="87a1a8f3-03b0-49b1-bc52-804a1b447aa2" name="Changes" comment="Add hw10">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw12/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw12/phonebook/PhoneDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw12/phonebook/Record.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/hw11/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw11/Box.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +36,9 @@
     <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw11/Fruit.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw11/Main.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw11/Orange.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw12/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw12/phonebook/PhoneDirectory.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw12/phonebook/Record.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw6/Main.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw6/Play.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw7/ArrayDataException.java" root0="SKIP_INSPECTION" />
@@ -112,20 +114,7 @@
       <recent name="ua.hillel.hw8.pak2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ValueCalculator">
-    <configuration name="ArrayValueCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hillel.hw7.ArrayValueCalculator" />
-      <module name="JavaPro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ua.hillel.hw7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PhoneDirectory">
     <configuration name="FileLogger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ua.hillel.hw9.FileLogger" />
       <module name="JavaPro" />
@@ -139,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hillel.hw8.pak0.Main" />
+    <configuration name="PhoneDirectory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.hw12.phonebook.PhoneDirectory" />
       <module name="JavaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.hillel.hw8.pak0.*" />
+          <option name="PATTERN" value="ua.hillel.hw12.phonebook.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,6 +147,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ua.hillel.hw10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ua.hillel.hw12.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.hw12.Main" />
+      <module name="JavaPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.hillel.hw12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PhoneDirectory" />
         <item itemvalue="Application.ValueCalculator" />
+        <item itemvalue="Application.ua.hillel.hw12.Main" />
         <item itemvalue="Application.FileLogger" />
         <item itemvalue="Application.ua.hillel.hw8.pak5.Main" />
-        <item itemvalue="Application.ArrayValueCalculator" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +243,12 @@
       <workItem from="1683923968019" duration="1876000" />
       <workItem from="1683980390521" duration="3220000" />
       <workItem from="1684077991493" duration="981000" />
-      <workItem from="1684090808135" duration="7286000" />
+      <workItem from="1684090808135" duration="7714000" />
+      <workItem from="1684178204729" duration="2162000" />
+      <workItem from="1684184655768" duration="4343000" />
+      <workItem from="1684269366845" duration="2952000" />
+      <workItem from="1684273603034" duration="4495000" />
+      <workItem from="1684353681522" duration="8416000" />
     </task>
     <task id="LOCAL-00001" summary="Create repository">
       <created>1681421569358</created>
@@ -306,7 +313,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683751644547</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add hw12">
+      <created>1684099362245</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1684099362245</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add hw10">
+      <created>1684353921920</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1684353921920</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,8 +340,9 @@
     <MESSAGE value="Add hw7" />
     <MESSAGE value="Add hw8" />
     <MESSAGE value="Add hw9" />
-    <MESSAGE value="Add hw10" />
     <MESSAGE value="Add hw10 2 attempt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add hw10 2 attempt" />
+    <MESSAGE value="Add hw12" />
+    <MESSAGE value="Add hw10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add hw10" />
   </component>
 </project>
