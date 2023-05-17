@@ -45,8 +45,8 @@ public class ValueCalculator extends Thread {
     }
 
     public static void main(String[] args) throws InterruptedException{
-        System.out.println(Thread.currentThread().getName());
         long start = System.currentTimeMillis();
+        System.out.println(Thread.currentThread().getName());
         arraysWorking(array);
         long end = System.currentTimeMillis();
         System.out.println("Times: " + (end - start));
