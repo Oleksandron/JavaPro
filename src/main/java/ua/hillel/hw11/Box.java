@@ -11,10 +11,10 @@ public class Box<T> {
 
     public void addElem(Box<T> elem) {
         for (int i = 0; i < box.size; i++) {
-//            if (!(box[i] == null)) continue;
-//            box[i] = elem;
+            box.addElem(elem);
         }
     }
+}
 
 //    public void addsElem(Box<T> elem) {
 //        for (int i = 0; i < box.size; i++) {
@@ -22,7 +22,7 @@ public class Box<T> {
 //            if (box[i] != null) continue;
 //            box[i] = elem[i];
 //        }
-    }
+//    }
 
 //    public void sizeAdd() {
 //        Object[] newBox = new Object[box.size * 2];
