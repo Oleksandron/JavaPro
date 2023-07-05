@@ -4,36 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87a1a8f3-03b0-49b1-bc52-804a1b447aa2" name="Changes" comment="Add hw16">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw19/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw20/builder/Body.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw20/builder/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw20/builder/CarBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw20/builder/Chassis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw20/builder/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw20/builder/Glass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw20/builder/Headlights.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw20/builder/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw20/builder/Wheels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw20/factory/Chair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw20/factory/ChairFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw20/factory/Furniture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw20/factory/FurnitureFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw20/factory/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw20/factory/Sofa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw20/factory/SofaFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw20/factory/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw20/factory/TableFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw20/factory/Wardrobe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw20/factory/WardrobeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw20/strategy/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw20/strategy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw20/strategy/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw20/strategy/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw20/strategy/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw20/strategy/Сircle.java" afterDir="false" />
+    <list default="true" id="87a1a8f3-03b0-49b1-bc52-804a1b447aa2" name="Changes" comment="Add hw20">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw19/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw19/TestRunner1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw19/TestRunner2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ua/hillel/hw19/TestRunner2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ua/hillel/hw19/TestRunnerTest1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/hw11/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/hw11/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/hw19/TestRunner.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +26,7 @@
         <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -54,6 +34,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw10/ValueCalculator.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw11/Apple.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw11/Box.java" root0="SKIP_INSPECTION" />
@@ -81,7 +62,9 @@
     <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw15/Product5_1_5_2/Product.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw16/CocktailSort.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw16/QuickSort.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw19/TestRunner.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw19/Human.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw19/TestRunner1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw19/TestRunner2.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw20/builder/Body.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw20/builder/Car.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw20/builder/CarBuilder.java" root0="SKIP_INSPECTION" />
@@ -138,6 +121,8 @@
     <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw9/FileLogger.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw9/FileLoggerConfiguration.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/ua/hillel/hw9/LoggingLevel.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/ua/hillel/hw19/TestRunner2Test.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/ua/hillel/hw19/TestRunnerTest1.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -158,13 +143,15 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/JavaPro/JavaPro/src/main/java/ua/hillel/hw8&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -182,19 +169,25 @@
       <recent name="C:\JavaPro\JavaPro\src\main\java\ua\hillel\hw8" />
       <recent name="C:\JavaPro\JavaPro\src\main\java" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ua.hillel.hw19" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ua.hillel.hw15.Product3_1_3_2_3_3" />
       <recent name="ua.hillel.hw8.pak5" />
       <recent name="ua.hillel.hw8.pak2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="CocktailSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hillel.hw16.CocktailSort" />
+  <component name="RunManager" selected="JUnit.TestRunner2Test">
+    <configuration name="TestRunner2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.hw19.TestRunner2" />
       <module name="JavaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.hillel.hw16.*" />
+          <option name="PATTERN" value="ua.hillel.hw19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,65 +195,76 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hillel.hw20.strategy.Main" />
+    <configuration name="TestRunner2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.hillel.hw20.strategy.*" />
+          <option name="PATTERN" value="ua.hillel.hw19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ua.hillel.hw19" />
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.hw19.TestRunner2Test" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hillel.hw16.QuickSort" />
+    <configuration name="TestRunner2Test.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.hillel.hw16.*" />
+          <option name="PATTERN" value="ua.hillel.hw19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ua.hillel.hw19" />
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.hw19.TestRunner2Test" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ua.hillel.hw20.builder.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hillel.hw20.builder.Main" />
+    <configuration name="TestRunner2Test.start" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.hillel.hw20.builder.*" />
+          <option name="PATTERN" value="ua.hillel.hw19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ua.hillel.hw19" />
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.hw19.TestRunner2Test" />
+      <option name="METHOD_NAME" value="start" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ua.hillel.hw20.factory.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hillel.hw20.factory.Main" />
+    <configuration name="TestRunner2Test.start3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.hillel.hw20.factory.*" />
+          <option name="PATTERN" value="ua.hillel.hw19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ua.hillel.hw19" />
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.hw19.TestRunner2Test" />
+      <option name="METHOD_NAME" value="start3" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ua.hillel.hw20.factory.Main" />
-        <item itemvalue="Application.ua.hillel.hw20.builder.Main" />
-        <item itemvalue="Application.CocktailSort" />
-        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="JUnit.TestRunner2Test" />
+        <item itemvalue="JUnit.TestRunner2Test.start3" />
+        <item itemvalue="JUnit.TestRunner2Test.main" />
+        <item itemvalue="JUnit.TestRunner2Test.start" />
+        <item itemvalue="Application.TestRunner2" />
       </list>
     </recent_temporary>
   </component>
@@ -348,7 +352,12 @@
       <workItem from="1688059298558" duration="2310000" />
       <workItem from="1688149626364" duration="13121000" />
       <workItem from="1688214760015" duration="5148000" />
-      <workItem from="1688303223714" duration="8381000" />
+      <workItem from="1688303223714" duration="8878000" />
+      <workItem from="1688328452697" duration="4038000" />
+      <workItem from="1688407954630" duration="158000" />
+      <workItem from="1688417278591" duration="3482000" />
+      <workItem from="1688503213031" duration="4373000" />
+      <workItem from="1688583859290" duration="3541000" />
     </task>
     <task id="LOCAL-00001" summary="Create repository">
       <created>1681421569358</created>
@@ -462,7 +471,15 @@
       <option name="project" value="LOCAL" />
       <updated>1685307123833</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Add hw20">
+      <option name="closed" value="true" />
+      <created>1688312110951</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1688312110951</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -482,6 +499,7 @@
     <MESSAGE value="Add hw13" />
     <MESSAGE value="Add hw15" />
     <MESSAGE value="Add hw16" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add hw16" />
+    <MESSAGE value="Add hw20" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add hw20" />
   </component>
 </project>
