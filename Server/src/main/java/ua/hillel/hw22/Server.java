@@ -13,9 +13,10 @@ public class Server {
                     BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(socket.getOutputStream()));
                     BufferedReader reader = new BufferedReader(new InputStreamReader(socket.getInputStream()));
                     {
-
                         String in = reader.readLine();
+                        System.out.println(in);
                         String out = "Connect to server";
+                        System.out.println(out);
                         writer.write(out);
                         writer.newLine();
                         writer.flush();
